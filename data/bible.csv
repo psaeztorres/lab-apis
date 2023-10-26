@@ -1,25 +1,25 @@
-Name,Role,Book
-Adam,First Man,Genesis
-Eve,First Woman,Genesis
-Noah,Builder of the Ark,Genesis
-Abraham,Father of Nations,Genesis
-Sarah,Wife of Abraham,Genesis
-Moses,Leader of the Exodus,Exodus
-Aaron,Brother of Moses,Exodus
-David,King of Israel,1 Samuel
-Solomon,Wisest Man,Proverbs
-Isaiah,Prophet,Isaiah
-Jeremiah,Prophet,Jeremiah
-John the Baptist,Forerunner of Jesus,Matthew
-Jesus Christ,Son of God,Matthew
-Mary,Mother of Jesus,Luke
-Peter,Apostle,Matthew
-Andrew,Apostle,Matthew
-James the Greater,Apostle,Matthew
-John the Evangelist,Apostle,John
-Philip,Apostle,Matthew
-Thomas,Apostle,Matthew
-James the Lesser,Apostle,Matthew
-Jude Thaddeus,Apostle,Matthew
-Simon the Zealot,Apostle,Matthew
-Bartholomew,Apostle,Matthew
+Name,Role,Book,Chapter,Verse
+Adam,First Man,Genesis,1,1
+Eve,First Woman,Genesis,22,5
+Noah,Builder of the Ark,Genesis,12,10
+Abraham,Father of Nations,Genesis,6,15
+Sarah,Wife of Abraham,Genesis,28,2
+Moses,Leader of the Exodus,Exodus,2,3
+Aaron,Brother of Moses,Exodus,13,8
+David,King of Israel,1 Samuel,8,4
+Solomon,Wisest Man,Proverbs,12,9
+Isaiah,Prophet,Isaiah,4,6
+Jeremiah,Prophet,Jeremiah,3,16
+John the Baptist,Forerunner of Jesus,Matthew,12,5
+Jesus Christ,Son of God,Matthew,5,10
+Mary,Mother of Jesus,Luke,6,15
+Peter,Apostle,Matthew,4,2
+Andrew,Apostle,Matthew,3,3
+James the Greater,Apostle,Matthew,5,8
+John the Evangelist,Apostle,John,3,4
+Philip,Apostle,Matthew,6,9
+Thomas,Apostle,Matthew,4,6
+James the Lesser,Apostle,Matthew,18,9
+Jude Thaddeus,Apostle,Matthew,9,12
+Simon the Zealot,Apostle,Matthew,27,3
+Bartholomew,Apostle,Matthew,6,2
